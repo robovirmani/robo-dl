@@ -14,6 +14,4 @@ Used Python with Tkinter
 
 # Screenshot
 
-<br>
-![alt text](https://github.com/robovirmani/robo-dl/blob/master/ss.JPG)
-
+![Screenshot](ss.JPG)
