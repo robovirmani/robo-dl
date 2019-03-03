@@ -4,7 +4,7 @@ Used Python with Tkinter
 
 # Installation
 
-- Go to ![Alt Text](http://bit.ly/robo-dl) 
+- Go to ![a link](http://bit.ly/robo-dl) 
 - Download to zip file, extract it and open `run.exe`
 
 # Screenshot
